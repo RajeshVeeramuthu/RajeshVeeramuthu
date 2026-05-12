@@ -130,11 +130,7 @@
 <!-- Activity Graph & Snake -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajeshVeeramuthu&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph" width="90%"/>
 
-<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%"/>
-
-</div>
 
 ---
 
